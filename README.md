@@ -6,11 +6,11 @@ Web Designer
 
 I am a web designer who loves to build effective websites.
 
-* 🌍  I'm based in Florida
-* 🖥️  See my portfolio at [https://kirisutoweb.com](http://www.kirisutoweb.com)
-* ✉️  You can contact me at [kirisutoweb@gmail.com, chrisdjanchi@kirisutoweb.com](mailto:kirisutoweb@gmail.com, chrisdjanchi@kirisutoweb.com)
-* 🧠  I'm learning HTML5, CSS, JavaScript
-* 🤝  I'm open to collaborating on Interesting projects
+* 🌍  I'm based in Florida.
+* 🖥️  See my portfolio at [https://kirisutoweb.com](https://www.kirisutoweb.com)
+* ✉️  You can contact me at [kirisutoweb@gmail.com](mailto:kirisutoweb@gmail.com)
+* 🧠  I'm learning HTML5, CSS, JavaScript.
+* 🤝  I'm open to collaborating on Interesting projects.
 * ⚡  I want to become a very good web designer and developer.
 
 <a href="https://www.twitter.com/kirisuto_web" target="_blank" rel="noreferrer"><img
